@@ -9,11 +9,14 @@
 - [Next.js](https://nextjs.org/docs)
 - [fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 
 
 # 📚 Libraries:
 - [tailwindcss](https://tailwindcss.com/)
+- [nativewind](https://www.nativewind.dev/)
 - [postcss](https://postcss.org/)
 - [radix-ui](https://www.radix-ui.com/)
 - [phosphoricons](https://phosphoricons.com/)
@@ -21,6 +24,7 @@
 - [dayjs](https://day.js.org/)
 - [clsx](https://www.npmjs.com/package/clsx)
 - [react-hot-toast](https://react-hot-toast.com/)
+- [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/)
 
 # Installing:
 ```bash
