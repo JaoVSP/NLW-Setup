@@ -25,8 +25,3 @@
 - [clsx](https://www.npmjs.com/package/clsx)
 - [react-hot-toast](https://react-hot-toast.com/)
 - [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/)
-
-# Installing:
-```bash
-$ git clone git@github.com:Jaozim420/NLW-Setup.git
-```
